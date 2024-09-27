@@ -8,6 +8,9 @@ A list of my public talks.
 - [Keep your friends close and your APIs closer](https://github.com/Eghizio/keep-your-friends-close-and-your-apis-closer-talk)
   - Studencki Festiwal Informatyczny - Kraków 05.04.2024
   - Kongres Next.js - Warszawa 02.02.2024
+ 
+- [React Workshops for AGH university students](https://github.com/Eghizio/react-workshops-stp-agh)
+  - Schibsted Office - Kraków 23.11.2023
 
 - [This is Your app - own it!](https://github.com/Eghizio/this-is-your-app-own-it-talk)
   - Meet.js - Kraków 12.10.2023
