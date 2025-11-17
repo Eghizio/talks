@@ -1,6 +1,10 @@
 # Talks
 A list of my public talks.
 
+- [Push it to the ~~limit~~ browser](https://github.com/Eghizio/push-it-to-the-limit-i-mean-browser-talk)
+  - Meet.js x Angular Warsaw - Warszawa 17.11.2025
+  - Meet.js - Kraków 03.04.2025
+
 - [Step up to the Podium - Composable microfrontends](https://github.com/Eghizio/step-up-to-the-podium-composable-microfrontends-talk)
   - Rzeszów.js - Rzeszów 03.10.2024
   - Meet.js - Kraków 18.04.2024
