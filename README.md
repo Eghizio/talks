@@ -1,6 +1,9 @@
 # Talks
 A list of my public talks.
 
+- [Long live the boring work! Automating all the fun stuff with AI](https://github.com/Eghizio/long-live-the-boring-work-automating-all-the-fun-stuff-with-ai-talk)
+  - HeiTech Meetup - Kraków 08.12.2025
+
 - [Push it to the ~~limit~~ browser](https://github.com/Eghizio/push-it-to-the-limit-i-mean-browser-talk)
   - Meet.js x Angular Warsaw - Warszawa 17.11.2025
   - Meet.js - Kraków 03.04.2025
