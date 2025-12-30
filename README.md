@@ -22,3 +22,13 @@ A list of my public talks.
 - [Electron is cool, but have you heard of Tauri - Hybrid Apps](https://github.com/Eghizio/tauri-talk)
   - Studencki Festiwal Informatyczny - Kraków 01.04.2023
   - Meet.js - Kraków 28.03.2023
+
+# Contact
+
+[LinkedIn](https://www.linkedin.com/in/jacob-wasik/)
+
+[GitHub](https://github.com/Eghizio)
+
+[Website](https://www.jakubwasik.com)
+
+Discord: `Eghizio#3491`
